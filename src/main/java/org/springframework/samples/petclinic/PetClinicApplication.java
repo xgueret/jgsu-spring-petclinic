@@ -21,7 +21,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * PetClinic Spring Boot Application.
- * modification commentaire
  * 
  * @author Dave Syer
  *
